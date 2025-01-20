@@ -63,3 +63,5 @@ output {
     }
 }
 ```
+
+I feel it's worth mentioning that this just a basic setup! This could be quickly made into something much more visually impressive - including but not limited to actually serving back a fully functioning web experience. This was a for-fun exercise for me. 🤠
